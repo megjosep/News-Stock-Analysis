@@ -1,5 +1,7 @@
 # News-Stock-Analysis
 
+*Project done for USC's DSCI 510 class*
+
 This repository contains 7 files:
 
 - Scrape LA Times (Python script)
@@ -36,5 +38,3 @@ This folder contains the database files of the Python script files, which are th
 Run 'Scrape LA Times.py', 'Scrape BBC News.py', and 'Scrape Yahoo Finance.py' to scrape the API and website to retrieve the datasets. The datasets should look like the CSV files that are located in the 'Outputs' folder.
 
 Run the above files with the option argument ('--static') to create the tables and graphs based on the three datasets that were created from the previous step. These should look like the PNG files that are located in the 'Outputs' folder.
-
-*Project done for USC's DSCI 510 class*
