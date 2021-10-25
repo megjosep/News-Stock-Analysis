@@ -1,0 +1,13 @@
+# requirements
+
+## requirements without version specifiers
+
+requests
+csv
+argparse
+datetime
+itertools
+pandas
+seaborn
+matplotlib
+pandas-datareader
