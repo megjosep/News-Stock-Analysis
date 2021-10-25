@@ -5,6 +5,7 @@ This repository contains 7 files:
 - Scrape LA Times (Python script)
 - Scrape BBC News (Python script)
 - Scrape Yahoo Finance (Python script)
+- Project Description (PDF)
 - Requirements (txt)
 - Database Files (folder, with 3 CSV files)
 - ReadMe (Markdown)
